@@ -1,5 +1,5 @@
 # Concentration buffering and noise reduction in phase separating systems
-This repository contains Matlab code associated with the preprint Zechner & Jülicher, "On the relationship between concentration buffering and noise reduction in phase separating systems".
+This repository contains Matlab code associated with the preprint Zechner & Jülicher, "On the relationship between concentration buffering and noise reduction in phase separating systems". The code was executed with Matlab version 9.10.0.1602886 (R2021a).
 
 ## Reproducing the figures
 Matlab scripts for reproducing the results in the paper are provided in the folder "CaseStudies" and the respective subfolders. As an example, the folder "CaseStudies/BinaryMixture/" contains all scripts necessary to recreate the results relating to the two-component system. The name of the scripts starts with the respective figure number (e.g., "Figure2_*").
