@@ -12,7 +12,7 @@ rng(1000);
 
 addpath('../../Common');
 addpath('../../BinaryMixture');
-addpath('../../BinaryMixture_ZOPA');
+addpath('../../BinaryMixture_DA');
 
 cols = GetDefaultColors();
 
