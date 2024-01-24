@@ -2,7 +2,7 @@
 This repository contains Matlab code associated with the manuscript Zechner & Jülicher, "On the relationship between concentration buffering and noise reduction in phase separating systems". The code was executed with MATLAB version 9.10.0.1602886 (R2021a) (The MathWorks Inc., Natick, Massachusetts).
 
 ## Reproducing the figures
-Matlab scripts for reproducing the results in the paper are provided in the folder "CaseStudies" and the respective subfolders. As an example, the folder "CaseStudies/BinaryMixture/" contains all scripts necessary to recreate the results relating to the two-component system. The name of the scripts starts with the respective figure number (e.g., "Figure2_*").
+Matlab scripts for reproducing the results in the paper are provided in the folder "CaseStudies" and the respective subfolders. As an example, the folder "CaseStudies/BinaryMixture/" contains all scripts necessary to recreate the results relating to the two-component system. The name of the scripts start with the respective figure number (e.g., "Figure2_*").
 
 ## Experimental data
 The paper uses previously published concentration measurements of intracellular condensates. Measurements of the 2NTDDX4-YFP were originally published in Figure 3C and Supplementary Figure S22 in Klosin et al., Science, 2020 (https://doi.org/10.1126/science.aav6691). Measurements of endogenously labelled NPM1 (NPM1-NeonGreen) were published in the same study in Figure 3f. The data has been included in the folder "CaseStudies/ExperimentalData/" with permission from Adam Klosin and Anthony A Hyman. 
